@@ -1,0 +1,11 @@
+ 1 milk 2500 2
+ 2 juice 10000 3
+ 3 water 500 1
+ 4 bread 3700 10
+ 5 cake 2800 2
+ 6 donut 2500 1
+ 7 crepe 700 5
+ 8 chips 1700 7
+ 9 capati 500 0
+10 biscuit 1000 20
+ 11 pizza 1300 20
